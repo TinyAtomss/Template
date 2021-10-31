@@ -23,3 +23,7 @@ p,p1,p2,h,h1,h2 {
 p{
   font-size: 1.5rem
 }
+/* For mobile phones: */
+[class*="p"] {
+  font-size: 2.5rem;
+}
