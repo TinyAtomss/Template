@@ -1,0 +1,25 @@
+/* Website Fonts */
+
+br{
+    -webkit-user-select:none;
+  -khtml-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  -o-user-select:none;
+  user-select:none;
+}
+p,p1,p2,h,h1,h2 {
+	margin: 0;
+	text-align: justify;
+    font-family: Arial;
+    color: lightgray;
+    text-shadow: 2px 2px #381218; 
+    padding: 1% ;
+    padding-left:5%;
+    padding-right:5%;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: aliceblue;
+}
+p{
+  font-size: 1.5rem
+}
